@@ -19,4 +19,4 @@ Installation
 
 ---
 
-That should keep it simple and to the point!
+
